@@ -1,0 +1,12 @@
+{
+  "name": "stockAppIonic1",
+  "integrations": {},
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ],
+  "id": "f3b08115"
+}
